@@ -20,10 +20,10 @@
 
         layer_0 {
             bindings = <
-&kp ESCAPE        &kp Q  &kp W         &kp E     &kp R                    &kp T              &kp Y      &kp U          &kp I  &kp O           &kp P           &kp DELETE
-&kp TAB           &kp A  &kp S         &kp D     &kp F                    &kp G              &kp H      &kp J          &kp K  &kp L           &kp MINUS       &kp ENTER
-&kp LSHFT         &kp Z  &kp X         &kp C     &kp V                    &kp B              &kp SPACE  &kp ENTER      &kp N  &kp M           &kp COMMA       &kp DOT          &kp UP_ARROW  &kp SLASH
-&kp LEFT_CONTROL  &mo 2  &kp LEFT_WIN  &kp LALT  &kp LANG_ZENKAKUHANKAKU  &kp LANG_HIRAGANA  &mo 1      &kp BACKSPACE  &mo 3  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
+&kp ESCAPE        &kp Q  &kp W         &kp E     &kp R          &kp T             &kp Y      &kp U          &kp I  &kp O           &kp P           &kp DELETE
+&kp TAB           &kp A  &kp S         &kp D     &kp F          &kp G             &kp H      &kp J          &kp K  &kp L           &kp MINUS       &kp ENTER
+&kp LSHFT         &kp Z  &kp X         &kp C     &kp V          &kp B             &mo 1      &kp ENTER      &kp N  &kp M           &kp COMMA       &kp DOT          &kp UP_ARROW  &kp SLASH
+&kp LEFT_CONTROL  &mo 2  &kp LEFT_WIN  &kp LALT  &kp LA(GRAVE)  &kp LS(CAPSLOCK)  &kp SPACE  &kp BACKSPACE  &mo 3  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW
             >;
         };
 
